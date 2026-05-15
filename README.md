@@ -80,8 +80,8 @@ Built with [Vova Lapushkin](https://github.com/vova-lapushkin) · `Django` `SQLi
 > Self-hosted VPN service with two-server chain architecture.
 
 ```
-Client → RU server (45.137.190.119) → DE server (82.23.177.164) → Internet
-         VLESS+Reality / 3x-ui          VLESS+Reality / 3x-ui
+Client → RU server → DE server → Internet
+         VLESS+Reality / RemnaWare
 ```
 
 - Flask client portal with **Telegram Login Widget**
