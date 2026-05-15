@@ -68,7 +68,7 @@ philosophy: build it yourself, host it yourself, own it yourself
 | **OakShield** | In-house AI moderation layer |
 | **Encryption** | Custom algorithm built from scratch |
 
-Built with [Jads__]([https://github.com/vova-lapushkin](https://github.com/jadssss)) · `Django` `SQLite` `custom crypto`
+Built with [Jads__](https://github.com/jadssss) · `Django` `SQLite` `custom crypto`
 
 <br/>
 </details>
