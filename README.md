@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Backend+dev+%2F+System+tinkerer+%2F+Indie+builder;Self-hosting+everything+since+day+one;Building+quietly%2C+shipping+slowly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+dev+%2F+System+tinkerer+%2F+Indie+builder;Self-hosting+everything+since+day+one;Building+quietly%2C+shipping+slowly)](https://git.io/typing-svg)
 
 <br/>
 
@@ -81,7 +81,7 @@ Built with [Vova Lapushkin](https://github.com/vova-lapushkin) · `Django` `SQLi
 
 ```
 Client → RU server → DE server → Internet
-         VLESS+Reality / RemnaWare
+         VLESS+Reality / 3x-ui
 ```
 
 - Flask client portal with **Telegram Login Widget**
@@ -130,9 +130,8 @@ Client → RU server → DE server → Internet
 
 > Anime voice cloning pipeline for Russian dubs.
 
-- **RVC Training Manager** (Flask, port 5757) — dataset prep, training runs
-- **Voice Splitter** (Flask, port 5758) — speaker diarization via pyannote
-- Target: clone voices from *Ангел по соседству* Russian dub
+- **RVC Training Manager** (Flask) — dataset prep, training runs
+- **Voice Splitter** (Flask) — speaker diarization via pyannote
 - Hardware: GTX 1080 Ti · CUDA · Python 3.11
 
 `Flask` `RVC` `Applio` `pyannote` `PyTorch` `faster-whisper`
@@ -171,14 +170,18 @@ Discord automation bot. Open-source. `discord.py`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=EggZys&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EggZys&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+<a href="https://github.com/EggZys">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EggZys&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" alt="EggZys stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EggZys&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" alt="Top langs"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=EggZys&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="150"/>
+<img src="https://streak-stats.demolab.com?user=EggZys&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="150" alt="Streak stats"/>
 
 </div>
+
+> ⚠️ **Note:** Stats cards use vercel-hosted services and may not render inside GitHub's README preview. They display correctly on the actual profile page.
 
 ---
 
